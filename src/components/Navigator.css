@@ -1,0 +1,22 @@
+.Navigator{
+    margin-top: -100px;
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+
+.home, .info, .more{
+    cursor: pointer;
+    margin-inline: 15px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    color: white;
+    font-size: 18px;
+    font-family: 'Press Start 2P', cursive;
+    background-color: rgba(66, 66, 66, 0.575);
+    border-style: dotted;
+    border-width: 2px;
+}
